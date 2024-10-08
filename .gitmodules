@@ -1,0 +1,9 @@
+[submodule "271sp24"]
+	path = 271sp24
+	url = https://github.com/LordGoatius/271sp24
+[submodule "c_data_structures"]
+	path = c_data_structures
+	url = https://github.com/LordGoatius/c_data_structures
+[submodule "C-Portfolio"]
+	path = C-Portfolio
+	url = https://github.com/LordGoatius/C-Portfolio
